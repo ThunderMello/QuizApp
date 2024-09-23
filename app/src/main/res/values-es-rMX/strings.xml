@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="texto_pregunta">Contesta la pregunta</string>
+    <string name="true_button">Cierto</string>
+    <string name="false_button">Mentira</string>
+    <string name="correct_toast">Correcto</string>
+    <string name="incorrect_toast">Incorrecto</string>
+    <string name="next_button">Continuar</string>
+    <string name="prev_button">Atrás</string>
+    <string name="pregunta_materia">Esta materia es díficil</string>
+    <string name="pregunta_continuar">Todos los estudiantes van a aprobar</string>
+</resources>

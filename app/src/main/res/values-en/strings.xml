@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="texto_pregunta">Here\'s the question</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Previous</string>
+    <string name="pregunta_materia">This subject is difficult</string>
+    <string name="pregunta_continuar">Every student can approve this subject</string>
+</resources>

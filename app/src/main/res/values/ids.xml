@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="true_button" type="id">true_button</item>
+    <item name="false_button" type="id">false_button</item>
+</resources>

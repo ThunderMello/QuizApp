@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="texto_pregunta">Aqui está la pregunta</string>
+    <string name="true_button">Verdadero</string>
+    <string name="false_button">Falso</string>
+    <string name="incorrect_toast">Incorrecto</string>
+    <string name="correct_toast">Correcto</string>
+    <string name="next_button">Siguiente</string>
+    <string name="prev_button">Anterior</string>
+    <string name="pregunta_materia">Esta materia es complicada</string>
+    <string name="pregunta_continuar">Todos los estudiantes estan capacitado para esta materio</string>
+    <string name="warning_text" translatable="false">Are you sure you want to do this?</string>
+    <string name="show_answer_button" translatable="false">Show Answer</string>
+    <string name="cheat_button" translatable="false">Cheat!</string>
+    <string name="judgment_toast" translatable="false">Cheating is wrong.</string>
+</resources>
